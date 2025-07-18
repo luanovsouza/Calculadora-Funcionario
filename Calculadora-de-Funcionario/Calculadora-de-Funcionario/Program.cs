@@ -31,17 +31,27 @@ namespace Calculadora
             if(escolhaimposto == 'S' || escolhaimposto == 's')
             {
                 Console.WriteLine("De quanto sera o imposto?");
-                Console.Write("Imposto: % ");
+                Console.Write("Imposto: ");
                 double imposto = Convert.ToDouble(Console.ReadLine());
                 funcionario = new Funcionario(nome, salariobruto, imposto);
+
+                Console.WriteLine();
+
+                double salarioimposto = funcionario.SalarioImposto(imposto);
+                Console.WriteLine($"Salario do {nome}, ja com o imposto fica: R$ {salarioimposto.ToString("F2", 
+                    CultureInfo.InvariantCulture)}");
             }
             else
             {
                 funcionario = new Funcionario(nome, salariobruto);
+                Console.WriteLine();
+                Console.WriteLine($"O salário sem imposto fica: R$ {salariobruto}");
             }
 
+            Console.WriteLine();
 
-            
+            Console.WriteLine("Agora digite a porcentagem para aumentar: ");
+
         }
     }
 }

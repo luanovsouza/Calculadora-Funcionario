@@ -19,9 +19,14 @@ namespace Calculadora_de_Funcionario
         }
 
 
-        public void SalarioImposto(double imposto)
+        public double SalarioImposto(double imposto)
         {
-            SalarioBruto -= Imposto;
+            return SalarioBruto -= Imposto;
+        }
+
+        public double AumentarSalario()
+        {
+            return 1.0 + 2.0;
         }
     }
 }
