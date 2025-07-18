@@ -1,0 +1,35 @@
+[33mcommit 12b156f888e7c436f585a4c5c19b4c9a260f9010[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Luan Oliveira <luanvisouza037@gmail.com>
+Date:   Thu Jul 17 22:59:27 2025 -0300
+
+    add metodo de aumentar saldo em base a uma porcentagem digitada
+
+[33mcommit 1cd38acd6e8ebd4bf14eb3e6c3ab6c3eaf92004c[m
+Author: Luan Oliveira <luanvisouza037@gmail.com>
+Date:   Thu Jul 17 22:44:21 2025 -0300
+
+    Add a chamada do Metodo para realizar a conta do imposto no salario e mostrando no console com o imposto ou nao
+
+[33mcommit a04dc445600baad188758d0d641fe7e1e85cb74d[m
+Author: Luan Oliveira <luanvisouza037@gmail.com>
+Date:   Thu Jul 17 22:31:40 2025 -0300
+
+    Adicionando construtores, sistema de escolha tendo imposto ou não
+
+[33mcommit 922a1989841bacf0b571442f0ab7ffc4989a3980[m
+Author: Luan Oliveira <luanvisouza037@gmail.com>
+Date:   Thu Jul 17 21:45:02 2025 -0300
+
+    Add Readme
+
+[33mcommit 5e2cc726e71b085b89db4d15f668c44d9894eae0[m
+Author: Luan Oliveira <luanvisouza037@gmail.com>
+Date:   Thu Jul 17 21:43:41 2025 -0300
+
+    Add Readme
+
+[33mcommit 45992b495f11d2decf565c909e24cec8e40cd4d2[m
+Author: Luan Souza <105165482+luanovsouza@users.noreply.github.com>
+Date:   Thu Jul 17 21:41:42 2025 -0300
+
+    Initial commit

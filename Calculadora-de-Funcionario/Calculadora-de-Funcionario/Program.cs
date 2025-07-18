@@ -53,8 +53,14 @@ namespace Calculadora
             Console.WriteLine("Agora digite a porcentagem para aumentar o salário: ");
             Console.Write("Aumentar: %");
             double porcentagem = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine();
+            
 
-            Console.WriteLine($"");
+            Console.WriteLine($"O salario de {nome} antes do aumento era de R$ {salariobruto.ToString("F2", 
+                CultureInfo.InvariantCulture)}");
+            Console.WriteLine();
+            Console.WriteLine($"Agora é de R$ {funcionario.AumentarSalario(porcentagem).ToString("F2", 
+                CultureInfo.InvariantCulture)}");
         }
     }
 }
