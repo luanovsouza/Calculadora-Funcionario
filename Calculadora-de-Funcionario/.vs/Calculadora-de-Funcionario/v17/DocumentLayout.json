@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gamer\\OneDrive\\Documentos\\Curso C# POO UDEMY\\Desafios para treinar\\Calculadora-Funcionario\\Calculadora-de-Funcionario\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF9ED50-DE0A-4DF2-8E56-84C5DD2411FE}|Calculadora-de-Funcionario\\Calculadora-de-Funcionario.csproj|c:\\users\\gamer\\onedrive\\documentos\\curso c# poo udemy\\desafios para treinar\\calculadora-funcionario\\calculadora-de-funcionario\\calculadora-de-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF9ED50-DE0A-4DF2-8E56-84C5DD2411FE}|Calculadora-de-Funcionario\\Calculadora-de-Funcionario.csproj|solutionrelative:calculadora-de-funcionario\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7FF9ED50-DE0A-4DF2-8E56-84C5DD2411FE}|Calculadora-de-Funcionario\\Calculadora-de-Funcionario.csproj|c:\\users\\gamer\\onedrive\\documentos\\curso c# poo udemy\\desafios para treinar\\calculadora-funcionario\\calculadora-de-funcionario\\calculadora-de-funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7FF9ED50-DE0A-4DF2-8E56-84C5DD2411FE}|Calculadora-de-Funcionario\\Calculadora-de-Funcionario.csproj|solutionrelative:calculadora-de-funcionario\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\OneDrive\\Documentos\\Curso C# POO UDEMY\\Desafios para treinar\\Calculadora-Funcionario\\Calculadora-de-Funcionario\\Calculadora-de-Funcionario\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Calculadora-de-Funcionario\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\gamer\\OneDrive\\Documentos\\Curso C# POO UDEMY\\Desafios para treinar\\Calculadora-Funcionario\\Calculadora-de-Funcionario\\Calculadora-de-Funcionario\\Funcionario.cs",
+              "RelativeToolTip": "Calculadora-de-Funcionario\\Funcionario.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T01:14:57.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gamer\\OneDrive\\Documentos\\Curso C# POO UDEMY\\Desafios para treinar\\Calculadora-Funcionario\\Calculadora-de-Funcionario\\Calculadora-de-Funcionario\\Program.cs",
+              "RelativeDocumentMoniker": "Calculadora-de-Funcionario\\Program.cs",
+              "ToolTip": "C:\\Users\\gamer\\OneDrive\\Documentos\\Curso C# POO UDEMY\\Desafios para treinar\\Calculadora-Funcionario\\Calculadora-de-Funcionario\\Calculadora-de-Funcionario\\Program.cs",
+              "RelativeToolTip": "Calculadora-de-Funcionario\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCEAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-18T00:49:02.886Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

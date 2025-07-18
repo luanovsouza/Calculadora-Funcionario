@@ -1,0 +1,27 @@
+﻿using System.Globalization;
+namespace Calculadora_de_Funcionario
+{
+    internal class Funcionario
+    {
+        public string Nome {  get; set; }
+        public double SalarioBruto {  get; private set; }
+        public double Imposto { get; set; }
+
+        public Funcionario(string nome, double salarioBruto) //Nao tem imposto
+        {
+            Nome = nome;
+            SalarioBruto = salarioBruto;
+        }
+
+        public Funcionario(string nome, double salarioBruto, double imposto) : this(nome, salarioBruto) //Tem imposto
+        {
+            Imposto = imposto;
+        }
+
+
+        public void SalarioImposto(double imposto)
+        {
+            SalarioBruto -= Imposto;
+        }
+    }
+}
