@@ -24,9 +24,10 @@ namespace Calculadora_de_Funcionario
             return SalarioBruto -= Imposto;
         }
 
-        public double AumentarSalario()
+        public double AumentarSalario(double porcentagem)
         {
-            return 1.0 + 2.0;
+            double aumentarporcentagem = porcentagem / 100 + 1;
+            return SalarioBruto * aumentarporcentagem;
         }
     }
 }

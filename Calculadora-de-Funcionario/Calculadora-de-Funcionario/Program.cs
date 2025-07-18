@@ -50,8 +50,11 @@ namespace Calculadora
 
             Console.WriteLine();
 
-            Console.WriteLine("Agora digite a porcentagem para aumentar: ");
+            Console.WriteLine("Agora digite a porcentagem para aumentar o salário: ");
+            Console.Write("Aumentar: %");
+            double porcentagem = Convert.ToDouble(Console.ReadLine());
 
+            Console.WriteLine($"");
         }
     }
 }
